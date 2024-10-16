@@ -1,0 +1,8 @@
+{
+    "staging": {
+        "url": "https://m.twitch.tv/"
+    },
+    "production": {
+        "url": "https://production.twitch.tv/"
+    }
+}
