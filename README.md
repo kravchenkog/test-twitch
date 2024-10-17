@@ -1,5 +1,5 @@
 # Test-Twitch
-![Test Execution](ezgif-6-8c0ffbf4b2.gif)
+![Test Execution](20241017_152428.gif)
 ## 1. Install Dependencies
 
 1. Create and activate a virtual environment:
